@@ -16,15 +16,15 @@ Forsakened is a chilling first-person horror game that plunges players into dark
 Unity is the game engine I designed the game in.
 >https://unity.com/
 
+## Project Access
+1) Download through Github
+2) It is also published on itch.io: https://razorshark21.itch.io/forsakened <br/>
 
-## Project Setup
- 1. Install Unity and Unity Hub
- 2. Install Visual Studio 
- 3. 
- Operating System: Windows 8 or higher, MacOS
+ # Operating System: 
+ Windows 8 or higher, MacOS <br/>
  Programming Language: C#
 
-#Controls
+# Controls
 * WASD - Move
 * Mouse - Look around
 * E - Interact
