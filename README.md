@@ -12,7 +12,7 @@ Forsakened is a chilling first-person horror game that plunges players into dark
 ## Technology
 
 ***Unity*** <br />
-Unity is the game engine I designed the game in.
+* Unity is the game engine I designed the game in.
 >https://unity.com/
 
 ## Project Access
